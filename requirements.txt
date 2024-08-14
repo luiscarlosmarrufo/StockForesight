@@ -1,0 +1,21 @@
+pandas
+matplotlib
+numpy
+yfinance
+sklearn
+kerasv ?
+tensorflow ?
+statsmodels, ta-lib for technical analysis.
+
+ANACONDA
+
+In terminal:
+
+
+conda create --name sf-env python=3.10
+
+conda activate sf-env
+
+conda install -c conda-forge pandas matplotlib numpy yfinance scikit-learn keras tensorflow statsmodels ta-lib
+
+conda update --all
